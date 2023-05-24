@@ -2,7 +2,7 @@ function Button() {
    alert("Maaf Tapi tombol Button Masih Belum Bisa Dipakai");
 }
 
-let search = "Java";
+let search = prompt("Mau Cari Apa?");
 
 const list = document.querySelector(".output");
 const list2 = document.querySelector("#notSearch");
